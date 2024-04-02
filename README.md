@@ -6,4 +6,4 @@ Optimization of Algorithms via Competitive Programming  IIIT Naya Raipur
 4. [Rotate Function - Dynamic Programming](https://github.com/GaurishIIITNR/OATCP/tree/main/Rotate_Function)
 5. [Bersu Ball - Dynamic Programming](https://github.com/GaurishIIITNR/OATCP/tree/main/BersuBall)
 6. [Maximum Ice Bars - Greedy Algorithms](https://github.com/GaurishIIITNR/OATCP/tree/main/Maximum_Ice_Bars)
-7. [Largest Number - Greedy Algorithms](#)
+7. [Largest Number - Greedy Algorithms](https://github.com/GaurishIIITNR/OATCP/tree/main/7_Largest_Number)
