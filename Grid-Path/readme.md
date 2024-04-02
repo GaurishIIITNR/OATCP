@@ -1,1 +1,23 @@
-The provided algorithm offers an efficient solution to compute the number of viable paths within a grid from the top-left to the bottom-right corner, accommodating obstacles denoted by '*' characters. Employing a dynamic programming approach with memoization, the algorithm significantly enhances computational efficiency by storing previously computed results. This allows for expedited retrieval of intermediate path counts, thus mitigating redundant calculations. By leveraging a recursive strategy, the algorithm systematically explores grid cells, considering valid movements to the right and downwards while respecting grid boundaries and obstacle placements. Such a methodological approach ensures both accuracy and scalability in handling large grid sizes. Through rigorous modular arithmetic techniques, the algorithm ensures numerical stability by maintaining computed path counts within acceptable bounds. Overall, this algorithm stands as a robust solution suitable for a diverse array of grid-based traversal problems, offering a balance between computational complexity and performance optimization.
+## Intuition and Approach
+
+- This problem can be solved using dynamic programming to avoid re-calculating the same subproblems repeatedly.
+- We will create a 2D DP array to store the number of paths from each cell to the destination.
+- At each cell, we check if it's a trap or not. If it's a trap, the number of paths from that cell to the destination is 0.
+- If it's not a trap, we calculate the number of paths by adding the number of paths from the cell to its right and the number of paths from the cell below it.
+- We start from the upper-left cell and recursively explore all possible paths until we reach the destination.
+- We apply modulo (10^9+7) to handle large numbers and avoid overflow.
+
+## Code Explanation
+
+- We define a global 2D DP array `dp` to store the number of paths from each cell.
+- We initialize all cells of `dp` to -1 to mark them as not calculated yet.
+- We define a recursive function `f()` that takes the grid `v`, current row index `i`, and current column index `j` as arguments.
+- In the `f()` function:
+  - If we're out of bounds or if the current cell is a trap, we return 0.
+  - If we're at the destination cell, we return 1.
+  - If the number of paths from the current cell has already been calculated, we return it from the `dp` array.
+  - Otherwise, we recursively calculate the number of paths by exploring the cells to the right and below the current cell and store the result in `dp[i][j]`.
+- In the `main()` function:
+  - We read the size of the grid `n` and the grid itself.
+  - We call the `f()` function with the grid, starting from the upper-left cell `(0, 0)`.
+  - Finally, we print the result modulo (10^9+7).
