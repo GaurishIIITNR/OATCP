@@ -7,3 +7,5 @@ Optimization of Algorithms via Competitive Programming  IIIT Naya Raipur
 5. [Bersu Ball - Dynamic Programming](https://github.com/GaurishIIITNR/OATCP/tree/main/BersuBall)
 6. [Maximum Ice Bars - Greedy Algorithms](https://github.com/GaurishIIITNR/OATCP/tree/main/Maximum_Ice_Bars)
 7. [Largest Number - Greedy Algorithms](https://github.com/GaurishIIITNR/OATCP/tree/main/7_Largest_Number)
+8. [Smallest Integer - Greedy Algorithms](https://github.com/GaurishIIITNR/OATCP/tree/main/8_Smallest_Integer)
+9. [Patching Array - Greedy Algorithms](https://github.com/GaurishIIITNR/OATCP/tree/main/9_Patching_Array)
