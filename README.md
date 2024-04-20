@@ -9,3 +9,5 @@ Optimization of Algorithms via Competitive Programming  IIIT Naya Raipur
 7. [Largest Number - Greedy Algorithms](https://github.com/GaurishIIITNR/OATCP/tree/main/7_Largest_Number)
 8. [Smallest Integer - Greedy Algorithms](https://github.com/GaurishIIITNR/OATCP/tree/main/8_Smallest_Integer)
 9. [Patching Array - Greedy Algorithms](https://github.com/GaurishIIITNR/OATCP/tree/main/9_Patching_Array)
+10. [Minimum Hamming - Bit Algorithms](https://github.com/GaurishIIITNR/OATCP/tree/main/10_Minimum_Hamming)
+11. [Counting Subgrid - Bit Algorithms](https://github.com/GaurishIIITNR/OATCP/tree/main/11_Counting_Subgrid)
