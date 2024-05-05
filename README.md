@@ -1,5 +1,5 @@
 # OATCP
-Optimization of Algorithms via Competitive Programming  IIIT Naya Raipur
+Optimization of Algorithms via Competitive Programming  IIITNR
 1. [Dice Problem - Dynamic Programming](https://github.com/GaurishIIITNR/OATCP/tree/main/dice_combination)
 2. [Grid Paths - Dynamic Programming](https://github.com/GaurishIIITNR/OATCP/tree/main/Grid-Path)
 3. [Maximum Product Subarray - Dynamic Programming](https://github.com/GaurishIIITNR/OATCP/tree/main/Maximum_Product_Subarray)
