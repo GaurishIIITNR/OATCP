@@ -11,3 +11,6 @@ Optimization of Algorithms via Competitive Programming  IIIT Naya Raipur
 9. [Patching Array - Greedy Algorithms](https://github.com/GaurishIIITNR/OATCP/tree/main/9_Patching_Array)
 10. [Minimum Hamming - Bit Algorithms](https://github.com/GaurishIIITNR/OATCP/tree/main/10_Minimum_Hamming)
 11. [Counting Subgrid - Bit Algorithms](https://github.com/GaurishIIITNR/OATCP/tree/main/11_Counting_Subgrid)
+12. [Maximum Flow- Graph Algorithms](https://github.com/GaurishIIITNR/OATCP/tree/main/12_Maximum_Flow)
+14. [Valid Arrangement - Graph Algorithms](https://github.com/GaurishIIITNR/OATCP/tree/main/14_Valid_Arrangement)
+15. [Brief Word- Graph Algorithms](https://github.com/GaurishIIITNR/OATCP/tree/main/15_Brief_Word)
